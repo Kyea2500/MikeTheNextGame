@@ -76,12 +76,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\DxLib_VC3_24f\DxLib_VC\プロジェクトに追加すべきファイル_VC用</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\FilesAddProject_for_VC</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\DxLib_VC3_24f\DxLib_VC\プロジェクトに追加すべきファイル_VC用</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\FilesAddProject_for_VC</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -108,13 +108,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\DxLib_VC3_24f\DxLib_VC\プロジェクトに追加すべきファイル_VC用</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\FilesAddProject_for_VC</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\DxLib_VC3_24f\DxLib_VC\プロジェクトに追加すべきファイル_VC用</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\FilesAddProject_for_VC</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -138,22 +138,24 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="GameObject\Player\Player.cpp" />
-    <ClCompile Include="GameDive\Pad\Pad.cpp" />
-    <ClCompile Include="Scene\SceneOver\SceneOver.cpp" />
-    <ClCompile Include="Scene\SceneTitle\SceneTitle.cpp" />
-    <ClCompile Include="Scene\SceneMain\SceneMain.cpp" />
-    <ClCompile Include="Scene\SceneManager\SceneManager.cpp" />
+    <ClCompile Include="Games\GameObject\Player\Player.cpp" />
+    <ClCompile Include="Games\GameDive\Pad\Pad.cpp" />
+    <ClCompile Include="Games\Scene\SceneOver\SceneOver.cpp" />
+    <ClCompile Include="Games\Scene\SceneTitle\SceneTitle.cpp" />
+    <ClCompile Include="Games\Scene\SceneMain\SceneMain.cpp" />
+    <ClCompile Include="Games\Scene\SceneManager\SceneManager.cpp" />
+    <ClCompile Include="Games\GameObject\Box\TreasureBox.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GameDive\game.h" />
-    <ClInclude Include="GameDive\Vec2.h" />
-    <ClInclude Include="GameObject\Player\Player.h" />
-    <ClInclude Include="GameDive\Pad\Pad.h" />
-    <ClInclude Include="Scene\SceneOver\SceneOver.h" />
-    <ClInclude Include="Scene\SceneTitle\SceneTitle.h" />
-    <ClInclude Include="Scene\SceneMain\SceneMain.h" />
-    <ClInclude Include="Scene\SceneManager\SceneManager.h" />
+    <ClInclude Include="Games\GameDive\game.h" />
+    <ClInclude Include="Games\GameDive\Vec2.h" />
+    <ClInclude Include="Games\GameObject\Player\Player.h" />
+    <ClInclude Include="Games\GameDive\Pad\Pad.h" />
+    <ClInclude Include="Games\Scene\SceneOver\SceneOver.h" />
+    <ClInclude Include="Games\Scene\SceneTitle\SceneTitle.h" />
+    <ClInclude Include="Games\Scene\SceneMain\SceneMain.h" />
+    <ClInclude Include="Games\Scene\SceneManager\SceneManager.h" />
+    <ClInclude Include="Games\GameObject\Box\TreasureBox.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

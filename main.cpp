@@ -1,5 +1,5 @@
-#include ""
-#include "GameDive/game.h"
+#include "FilesAddProject_for_VC/DxLib.h"
+#include "Games/GameDive/game.h"
 
 namespace
 {

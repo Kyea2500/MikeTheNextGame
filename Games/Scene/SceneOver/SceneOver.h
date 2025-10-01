@@ -1,5 +1,6 @@
 #pragma once
 #include"../SceneManager/SceneManager.h"
+class resultTimer;
 class SceneOver
 {
 public:
@@ -9,5 +10,7 @@ public:
 	void End();
 	SceneManager::SceneKind Update();
 	void Draw();
+private:
+	std::shared_ptr<resultTimer> m_resultTimer;
 };
 

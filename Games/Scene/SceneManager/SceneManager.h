@@ -1,4 +1,6 @@
 #pragma once
+#include <memory>
+
 class SceneTitle;
 class SceneMain;
 class SceneOver;

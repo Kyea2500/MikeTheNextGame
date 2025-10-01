@@ -145,6 +145,8 @@
     <ClCompile Include="Games\Scene\SceneMain\SceneMain.cpp" />
     <ClCompile Include="Games\Scene\SceneManager\SceneManager.cpp" />
     <ClCompile Include="Games\GameObject\Box\TreasureBox.cpp" />
+    <ClCompile Include="Games\GameObject\Timer\Timer.cpp" />
+    <ClCompile Include="Games\GameObject\Timer\resultTimer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Games\GameDive\game.h" />
@@ -156,6 +158,8 @@
     <ClInclude Include="Games\Scene\SceneMain\SceneMain.h" />
     <ClInclude Include="Games\Scene\SceneManager\SceneManager.h" />
     <ClInclude Include="Games\GameObject\Box\TreasureBox.h" />
+    <ClInclude Include="Games\GameObject\Timer\Timer.h" />
+    <ClInclude Include="Games\GameObject\Timer\resultTimer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

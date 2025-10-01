@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameObject\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Box\\TreasureBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameObject\\Box\\TreasureBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Box\\TreasureBox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameObject\\Box\\TreasureBox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameObject\\Timer\\Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\Timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameObject\\Timer\\Timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\resultTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameObject\\Timer\\resultTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameObject\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,28 +35,12 @@
       "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\Scene\\SceneManager\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameDive\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\Scene\\SceneOver\\SceneOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Box\\TreasureBox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameObject\\Box\\TreasureBox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Box\\TreasureBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameObject\\Box\\TreasureBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Pad\\Pad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameDive\\Pad\\Pad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Pad\\Pad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameDive\\Pad\\Pad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameDive\\Vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\Scene\\SceneOver\\SceneOver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneTitle\\SceneTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -47,12 +51,12 @@
       "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\Scene\\SceneTitle\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\Scene\\SceneOver\\SceneOver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneMain\\SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\Scene\\SceneMain\\SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\Scene\\SceneOver\\SceneOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\resultTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameObject\\Timer\\resultTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneManager\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -63,12 +67,24 @@
       "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\Scene\\SceneMain\\SceneMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneMain\\SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\Scene\\SceneMain\\SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Pad\\Pad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameDive\\Pad\\Pad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameDive\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Pad\\Pad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameDive\\Pad\\Pad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2FDF513-CE29-4363-9A63-2B199B6C0194}|DX_Temp1.vcxproj|solutionrelative:Games\\GameDive\\Vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,11 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "Pad.cpp",
               "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Pad\\Pad.cpp",
               "RelativeDocumentMoniker": "Games\\GameDive\\Pad\\Pad.cpp",
@@ -91,77 +107,72 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-30T07:09:37.799Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Player\\Player.h",
+              "RelativeDocumentMoniker": "Games\\GameObject\\Player\\Player.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Player\\Player.h",
+              "RelativeToolTip": "Games\\GameObject\\Player\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-30T07:28:36.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SceneOver.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.cpp",
+              "RelativeDocumentMoniker": "Games\\Scene\\SceneOver\\SceneOver.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.cpp",
+              "RelativeToolTip": "Games\\Scene\\SceneOver\\SceneOver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-30T06:54:40.969Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "resultTimer.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\resultTimer.cpp",
+              "RelativeDocumentMoniker": "Games\\GameObject\\Timer\\resultTimer.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\resultTimer.cpp",
+              "RelativeToolTip": "Games\\GameObject\\Timer\\resultTimer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-01T02:45:59.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TreasureBox.cpp",
               "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Box\\TreasureBox.cpp",
               "RelativeDocumentMoniker": "Games\\GameObject\\Box\\TreasureBox.cpp",
               "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Box\\TreasureBox.cpp",
               "RelativeToolTip": "Games\\GameObject\\Box\\TreasureBox.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-30T07:30:37.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TreasureBox.h",
-              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Box\\TreasureBox.h",
-              "RelativeDocumentMoniker": "Games\\GameObject\\Box\\TreasureBox.h",
-              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Box\\TreasureBox.h",
-              "RelativeToolTip": "Games\\GameObject\\Box\\TreasureBox.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-30T07:30:19.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Pad.h",
-              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Pad\\Pad.h",
-              "RelativeDocumentMoniker": "Games\\GameDive\\Pad\\Pad.h",
-              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Pad\\Pad.h",
-              "RelativeToolTip": "Games\\GameDive\\Pad\\Pad.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-30T07:29:20.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "game.h",
-              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\game.h",
-              "RelativeDocumentMoniker": "Games\\GameDive\\game.h",
-              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\game.h",
-              "RelativeToolTip": "Games\\GameDive\\game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-30T07:29:18.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Vec2.h",
-              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Vec2.h",
-              "RelativeDocumentMoniker": "Games\\GameDive\\Vec2.h",
-              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Vec2.h",
-              "RelativeToolTip": "Games\\GameDive\\Vec2.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-30T07:29:17.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "SceneOver.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.h",
+              "RelativeDocumentMoniker": "Games\\Scene\\SceneOver\\SceneOver.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.h",
+              "RelativeToolTip": "Games\\Scene\\SceneOver\\SceneOver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-30T07:29:03.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SceneTitle.h",
               "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneTitle\\SceneTitle.h",
               "RelativeDocumentMoniker": "Games\\Scene\\SceneTitle\\SceneTitle.h",
@@ -169,60 +180,19 @@
               "RelativeToolTip": "Games\\Scene\\SceneTitle\\SceneTitle.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-30T07:29:06.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T07:29:06.462Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "SceneOver.h",
-              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.h",
-              "RelativeDocumentMoniker": "Games\\Scene\\SceneOver\\SceneOver.h",
-              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.h",
-              "RelativeToolTip": "Games\\Scene\\SceneOver\\SceneOver.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-30T07:29:03.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SceneManager.h",
-              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneManager\\SceneManager.h",
-              "RelativeDocumentMoniker": "Games\\Scene\\SceneManager\\SceneManager.h",
-              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneManager\\SceneManager.h",
-              "RelativeToolTip": "Games\\Scene\\SceneManager\\SceneManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-30T07:29:00.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SceneMain.h",
-              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneMain\\SceneMain.h",
-              "RelativeDocumentMoniker": "Games\\Scene\\SceneMain\\SceneMain.h",
-              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneMain\\SceneMain.h",
-              "RelativeToolTip": "Games\\Scene\\SceneMain\\SceneMain.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-30T07:28:57.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Player\\Player.h",
-              "RelativeDocumentMoniker": "Games\\GameObject\\Player\\Player.h",
-              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Player\\Player.h",
-              "RelativeToolTip": "Games\\GameObject\\Player\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-30T07:28:36.099Z",
-              "EditorCaption": ""
+              "Title": "SceneTitle.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneTitle\\SceneTitle.cpp",
+              "RelativeDocumentMoniker": "Games\\Scene\\SceneTitle\\SceneTitle.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneTitle\\SceneTitle.cpp",
+              "RelativeToolTip": "Games\\Scene\\SceneTitle\\SceneTitle.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-30T06:46:53.704Z"
             },
             {
               "$type": "Document",
@@ -230,77 +200,156 @@
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Player\\Player.cpp",
               "RelativeDocumentMoniker": "Games\\GameObject\\Player\\Player.cpp",
-              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Player\\Player.cpp",
-              "RelativeToolTip": "Games\\GameObject\\Player\\Player.cpp",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFAAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Player\\Player.cpp*",
+              "RelativeToolTip": "Games\\GameObject\\Player\\Player.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-30T07:28:35.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Timer.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\Timer.cpp",
+              "RelativeDocumentMoniker": "Games\\GameObject\\Timer\\Timer.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\Timer.cpp",
+              "RelativeToolTip": "Games\\GameObject\\Timer\\Timer.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAEwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-01T02:24:40.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Timer.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\Timer.h",
+              "RelativeDocumentMoniker": "Games\\GameObject\\Timer\\Timer.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\Timer.h",
+              "RelativeToolTip": "Games\\GameObject\\Timer\\Timer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T02:24:38.218Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TreasureBox.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Box\\TreasureBox.h",
+              "RelativeDocumentMoniker": "Games\\GameObject\\Box\\TreasureBox.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Box\\TreasureBox.h",
+              "RelativeToolTip": "Games\\GameObject\\Box\\TreasureBox.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-30T07:30:19.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SceneManager.cpp",
               "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneManager\\SceneManager.cpp",
               "RelativeDocumentMoniker": "Games\\Scene\\SceneManager\\SceneManager.cpp",
               "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneManager\\SceneManager.cpp",
               "RelativeToolTip": "Games\\Scene\\SceneManager\\SceneManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-30T06:56:28.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:56:28.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "SceneMain.cpp",
               "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneMain\\SceneMain.cpp",
               "RelativeDocumentMoniker": "Games\\Scene\\SceneMain\\SceneMain.cpp",
               "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneMain\\SceneMain.cpp",
               "RelativeToolTip": "Games\\Scene\\SceneMain\\SceneMain.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-30T06:53:16.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:53:16.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SceneTitle.cpp",
-              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneTitle\\SceneTitle.cpp",
-              "RelativeDocumentMoniker": "Games\\Scene\\SceneTitle\\SceneTitle.cpp",
-              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneTitle\\SceneTitle.cpp",
-              "RelativeToolTip": "Games\\Scene\\SceneTitle\\SceneTitle.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-30T06:46:53.704Z",
-              "EditorCaption": ""
+              "DocumentIndex": 15,
+              "Title": "SceneMain.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneMain\\SceneMain.h",
+              "RelativeDocumentMoniker": "Games\\Scene\\SceneMain\\SceneMain.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneMain\\SceneMain.h",
+              "RelativeToolTip": "Games\\Scene\\SceneMain\\SceneMain.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-30T07:28:57.838Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Pad.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Pad\\Pad.h",
+              "RelativeDocumentMoniker": "Games\\GameDive\\Pad\\Pad.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Pad\\Pad.h",
+              "RelativeToolTip": "Games\\GameDive\\Pad\\Pad.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-30T07:29:20.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneManager\\SceneManager.h",
+              "RelativeDocumentMoniker": "Games\\Scene\\SceneManager\\SceneManager.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneManager\\SceneManager.h",
+              "RelativeToolTip": "Games\\Scene\\SceneManager\\SceneManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-30T07:29:00.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "resultTimer.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\resultTimer.h",
+              "RelativeDocumentMoniker": "Games\\GameObject\\Timer\\resultTimer.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameObject\\Timer\\resultTimer.h",
+              "RelativeToolTip": "Games\\GameObject\\Timer\\resultTimer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T02:45:07.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\game.h",
+              "RelativeDocumentMoniker": "Games\\GameDive\\game.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\game.h",
+              "RelativeToolTip": "Games\\GameDive\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-30T07:29:18.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Vec2.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Vec2.h",
+              "RelativeDocumentMoniker": "Games\\GameDive\\Vec2.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\GameDive\\Vec2.h",
+              "RelativeToolTip": "Games\\GameDive\\Vec2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-30T07:29:17.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-30T06:39:29.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SceneOver.cpp",
-              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.cpp",
-              "RelativeDocumentMoniker": "Games\\Scene\\SceneOver\\SceneOver.cpp",
-              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Documents\\GitHub\\MikeTheNextGame\\Games\\Scene\\SceneOver\\SceneOver.cpp",
-              "RelativeToolTip": "Games\\Scene\\SceneOver\\SceneOver.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-30T06:54:40.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:39:29.195Z"
             }
           ]
         }

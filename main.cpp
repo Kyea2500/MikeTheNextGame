@@ -1,5 +1,6 @@
 #include "FilesAddProject_for_VC/DxLib.h"
 #include "Games/GameDive/game.h"
+#include "Games/Scene/SceneManager/SceneManager.h"
 
 namespace
 {
@@ -24,6 +25,9 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	// 描画先を裏画面にする
 	SetDrawScreen(DX_SCREEN_BACK);
 
+	std::shared_ptr<SceneManager> sceneManager = std::make_shared<SceneManager>();
+	sceneManager->Init();
+
 
 
 	// 3D関連の設定
@@ -37,6 +41,10 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 		LONGLONG time = GetNowHiPerformanceCount();
 		// 画面をクリアに
 		ClearDrawScreen();
+
+		// ここにゲームの処理を書く
+		sceneManager->Update();
+		sceneManager->Draw();
 
 		// 画面の切り替わりを待つ必要がある
 		ScreenFlip();

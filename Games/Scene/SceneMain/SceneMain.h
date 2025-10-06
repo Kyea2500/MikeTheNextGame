@@ -12,6 +12,8 @@ class SceneMain
 	void End();
 	SceneManager::SceneKind Update();
 	void Draw();
+public:
+	bool m_clear; // ƒNƒŠƒA‚µ‚½‚©‚Ç‚¤‚©
 private:
 	std::shared_ptr<Player> m_player;
 	std::shared_ptr<TreasureBox> m_treasureBox;

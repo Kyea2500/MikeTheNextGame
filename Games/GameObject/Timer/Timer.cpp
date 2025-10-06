@@ -1,17 +1,21 @@
 #include "Timer.h"
 #include"../../../FilesAddProject_for_VC/DxLib.h"
+#include"../../Scene/SceneMain/SceneMain.h"
 
 namespace
 {
-	constexpr float kMaxTime = 60.0f; // 1秒間のフレーム数
-	constexpr int kMaxSec = 60; // 1分間の秒数
-	constexpr int kMaxMns = 100; // 最大分数
+	// テキスト位置
+	constexpr int kTextPosX = 10;
+	constexpr int kTextPosY = 10;
+
 }
 
-Timer::Timer():m_timeSec(0),
-m_timeMns(0),
-m_time(0.0f)
+Timer::Timer():
+m_time(0.0),
+m_Start(0),
+m_End(0)
 {
+	m_sceneMain = std::make_shared<SceneMain>();
 }
 
 Timer::~Timer()
@@ -20,50 +24,29 @@ Timer::~Timer()
 
 void Timer::Init()
 {
-	m_time = 0.0f;
-	m_timeSec = 0;
-	m_timeMns = 0;
+
 }
 void Timer::End()
 {
+
 }
 void Timer::Update()
 {
-	m_time++;
-	if (m_time >= kMaxTime)
+	m_Start = clock();
+	if (m_sceneMain->m_clear)
 	{
-		m_timeSec++;
-		m_time = 0.0f;
-		if (m_timeSec >= kMaxSec)
-		{
-			m_timeMns++;
-			m_timeSec = 0;
-			if (m_timeMns >= kMaxMns)
-			{
-				m_timeMns = 99;
-				m_timeSec = 59;
-			}
-		}
+		Stop();
 	}
+	// 経過時間を秒に変換して加算
+	m_time += (double)(m_Start-m_End) / CLOCKS_PER_SEC;
+	m_End = m_Start;
 }
 void Timer::Draw()
 {
-	// 経過時間の描画
-	if(m_timeMns<10&&m_timeSec<10)
-	{
-		DrawFormatString(10, 10, GetColor(255, 255, 255), "0%d:0%d",m_timeMns,m_timeSec);
-		return;
-	}
-	else if(m_timeMns<10)
-	{
-		DrawFormatString(10, 10, GetColor(255, 255, 255), "0%d:%d", m_timeMns, m_timeSec);
-		return;
-	}
-	else if(m_timeSec<10)
-	{
-		DrawFormatString(10, 10, GetColor(255, 255, 255), "%d:0%d", m_timeMns, m_timeSec);
-		return;
-	}
-	DrawFormatString(10, 10, GetColor(255, 255, 255), "%d:%d", m_timeMns, m_timeSec);
+	DrawFormatString(kTextPosX, kTextPosY, 0xffffff, "%f秒",m_time);
+}
 
+void Timer::Stop()
+{
+	m_End = clock();
 }

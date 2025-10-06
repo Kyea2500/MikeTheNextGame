@@ -8,11 +8,9 @@ public:
 	~resultTimer();
 	void Init();
 	void End();
+	void Update();
 	void Draw();
 private:
 	std::shared_ptr<Timer> m_timer;
-private:
-	int m_timeSec; // Œo‰ßŽžŠÔ(•b)
-	int m_timeMns; // Œo‰ßŽžŠÔ(•ª)
 };
 

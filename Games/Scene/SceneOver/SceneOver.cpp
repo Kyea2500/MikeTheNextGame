@@ -1,7 +1,8 @@
 #include "SceneOver.h"
 #include"../../../FilesAddProject_for_VC/DxLib.h"
 #include"../../GameDive/Pad/Pad.h"
-#include"../../GameObject/Timer/resultTimer.h"
+#include"../../GameObject/Timer/Timer.h"
+
 
 namespace
 {
@@ -18,7 +19,7 @@ namespace
 	constexpr int kGameEndTextPosY = 300;
 
 }
-SceneOver::SceneOver() :m_resultTimer(nullptr)
+SceneOver::SceneOver() :m_Timer(nullptr)
 {
 }
 
@@ -27,8 +28,9 @@ SceneOver::~SceneOver()
 }
 void SceneOver::Init()
 {
-	m_resultTimer = std::make_shared<resultTimer>();
-	m_resultTimer->Init();
+	m_Timer = std::make_shared<Timer>();
+	//m_Timer->Init();
+
 }
 void SceneOver::End()
 {
@@ -56,5 +58,5 @@ void SceneOver::Draw()
 	DrawFormatString(kTitleTextPosX, kTitleTextPosY, 0xffffff, "push A button :Title");
 	DrawFormatString(kGameEndTextPosX, kGameEndTextPosY, 0xffffff, "push B button :GameEnd");
 
-	m_resultTimer->Draw();
+	m_Timer->Draw();
 }

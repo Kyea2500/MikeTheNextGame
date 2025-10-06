@@ -5,7 +5,8 @@
 
 SceneMain::SceneMain() :m_player(nullptr),
 m_treasureBox(nullptr),
-m_timer(nullptr)
+m_timer(nullptr),
+m_clear(false)
 {
 }
 SceneMain::~SceneMain()
@@ -33,6 +34,7 @@ void SceneMain::End()
 
 SceneManager::SceneKind SceneMain::Update()
 {
+	m_clear = false;
 	m_player->Update();
 	m_treasureBox->Update();
 	m_timer->Update();
@@ -42,6 +44,8 @@ SceneManager::SceneKind SceneMain::Update()
 	   m_player->HitSquareTop()<=m_treasureBox->HitSquareBottom()&&
 	   m_player->HitSquareBottom()>=m_treasureBox->HitSquareTop())
 	{
+		m_clear = true;
+		// 宝箱に当たったらゲームオーバーシーンへ
 		return SceneManager::SceneKind::kSceneGameOver;
 	}
 

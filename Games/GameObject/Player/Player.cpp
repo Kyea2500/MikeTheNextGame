@@ -7,12 +7,12 @@ namespace
 {
 	constexpr float kSpeed = 10.0f; // プレイヤーの移動速度
 	constexpr float kBoost = 5.0f; // 瞬間移動の距離を増やす係数
-	constexpr float kPlayerImageWidth = 16.1f; // プレイヤー画像の幅
-	constexpr float kPlayerImageHeight = 25.6f;// プレイヤー画像の高さ
-	constexpr float kPlayerScale = 2.0f; // プレイヤー画像の拡大率
+	constexpr int kPlayerImageWidth = 16; // プレイヤー画像の幅
+	constexpr double kPlayerImageHeight = 21;// プレイヤー画像の高さ
+	constexpr float kPlayerScale = 5.0f; // プレイヤー画像の拡大率
 	constexpr int half = 2; // 2で割るための定数
-	constexpr int kAnimeFrameSpeed = 5; // アニメーションのフレーム速度
-	constexpr int kMoveAnimeNum = 3; // 移動アニメーションの枚数
+	constexpr int kAnimeFrameSpeed = 4; // アニメーションのフレーム速度
+	constexpr int kMoveAnimeNum = 4; // 移動アニメーションの枚数
 
 	// プレイヤーの向き
 	enum PlayerDir
@@ -55,6 +55,7 @@ void Player::Update()
 {
 	// アニメフレームの更新
 	m_frame++;
+
 	int totalAnimeFrame = kAnimeFrameSpeed * kMoveAnimeNum;
 	// アニメフレームが最大値を超えたら0に戻す
 	if (m_frame >= totalAnimeFrame)
@@ -267,8 +268,8 @@ void Player::UpdateMove()
 		move.Normalize();
 	}
 
-	//move.x *= kBoost; // X軸のスピードのギアを上げる
-	//move.y *= kBoost; // Y軸のスピードのギアを上げる
+	move.x *= kBoost; // X軸のスピードのギアを上げる
+	move.y *= kBoost; // Y軸のスピードのギアを上げる
 
 	// プレイヤーの位置を更新
 	m_pos += move;

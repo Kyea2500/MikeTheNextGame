@@ -1,4 +1,7 @@
 #pragma once
+#include<time.h>
+#include<memory>
+class SceneMain;
 class Timer
 {
 public:
@@ -9,11 +12,14 @@ public:
 	void Update();
 	void Draw();
 public:
-	int GetTimeSec() { return m_timeSec; }
-	int GetTimeMns() { return m_timeMns; }
+	void Stop();
+	int GetTimeSec() { return (int)m_time; } // Œo‰ßŠÔ(•b)‚ğæ“¾
 private:
-	int m_timeSec; // Œo‰ßŠÔ(•b)
-	int m_timeMns; // Œo‰ßŠÔ(•ª)
-	float m_time;   // Œo‰ßŠÔ(•b.ƒ~ƒŠ•b)
+	std::shared_ptr<SceneMain> m_sceneMain;
+private:
+	double m_time;
+	long m_Start;
+	long m_End;
+
 };
 

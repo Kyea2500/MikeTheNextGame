@@ -13,11 +13,11 @@ public:
 	void Draw();
 public:
 	void Stop();
-	int GetTimeSec() { return (int)m_time; } // Œo‰ßŠÔ(•b)‚ğæ“¾
+	double GetTime(); // Œo‰ßŠÔ‚ğæ“¾
 private:
 	std::shared_ptr<SceneMain> m_sceneMain;
 private:
-	double m_time;
+    double m_timer;
 	long m_Start;
 	long m_End;
 

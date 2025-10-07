@@ -1,64 +1,8 @@
-﻿  Player.cpp
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(82,76): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(82,36): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(81,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(81,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(88,76): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(88,36): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(87,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(87,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(94,80): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(94,39): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(93,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(93,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(100,80): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(100,39): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(99,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(99,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(106,80): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(106,39): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(105,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(105,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(112,80): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(112,39): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(111,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(111,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(118,80): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(118,39): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(117,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(117,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(124,80): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(124,39): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(123,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(123,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(138,48): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(137,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(137,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(144,49): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(143,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(143,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(150,49): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(149,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(149,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(156,49): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(155,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(155,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(162,51): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(161,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(161,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(168,51): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(167,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(167,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(174,51): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(173,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(173,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(180,51): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(179,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(179,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(189,76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(189,57): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(189,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(189,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(300,17): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\Games\GameObject\Player\Player.cpp(306,17): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+﻿  Timer.cpp
+  SceneMain.cpp
+  SceneManager.cpp
+  SceneOver.cpp
+  SceneTitle.cpp
+  main.cpp
+  コードを生成中...
   DX_Temp1.vcxproj -> C:\Users\安藤 歩夢\Documents\GitHub\MikeTheNextGame\x64\Debug\DX_Temp1.exe

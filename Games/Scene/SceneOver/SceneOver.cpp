@@ -1,7 +1,7 @@
 #include "SceneOver.h"
 #include"../../../FilesAddProject_for_VC/DxLib.h"
 #include"../../GameDive/Pad/Pad.h"
-#include"../../GameObject/Timer/Timer.h"
+#include"../../GameObject/Timer/resultTimer.h"
 
 
 namespace
@@ -28,8 +28,8 @@ SceneOver::~SceneOver()
 }
 void SceneOver::Init()
 {
-	m_Timer = std::make_shared<Timer>();
-	//m_Timer->Init();
+	m_Timer = std::make_shared<resultTimer>();
+	m_Timer->Init();
 
 }
 void SceneOver::End()
@@ -38,6 +38,7 @@ void SceneOver::End()
 
 SceneManager::SceneKind SceneOver::Update()
 {
+	m_Timer->Update();
 	// Aボタンが押されたらタイトルシーンへ
 	if (Pad::IsPress(PAD_INPUT_1))
 	{
@@ -54,9 +55,8 @@ SceneManager::SceneKind SceneOver::Update()
 }
 void SceneOver::Draw()
 {
+	m_Timer->Draw();
 	DrawFormatString(kTextPosX, kTextPosY, 0xff0000, "result");
 	DrawFormatString(kTitleTextPosX, kTitleTextPosY, 0xffffff, "push A button :Title");
 	DrawFormatString(kGameEndTextPosX, kGameEndTextPosY, 0xffffff, "push B button :GameEnd");
-
-	m_Timer->Draw();
 }

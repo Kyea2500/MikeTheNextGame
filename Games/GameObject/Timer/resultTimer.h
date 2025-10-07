@@ -1,6 +1,4 @@
 #pragma once
-#include <memory>
-class Timer;
 class resultTimer
 {
 public:
@@ -11,6 +9,10 @@ public:
 	void Update();
 	void Draw();
 private:
-	std::shared_ptr<Timer> m_timer;
+	double m_time;	// ‚±‚¢‚Â‚ğdoubleŒ^‚É‚µ‚½‚¢‚ªc
+				// TimerƒNƒ‰ƒX‚ÌGetTime()‚ªintŒ^‚ğ•Ô‚·‚Ì‚ÅintŒ^‚É‚µ‚Ä‚¨‚­
+	int m_min;
+	int m_sec; 
+	float m_remitt;
 };
 

@@ -30,6 +30,7 @@ SceneManager::~SceneManager()
 		m_pSceneGameOver = nullptr;
 		delete m_pSceneGameOver;
 	}
+	
 }
 
 void SceneManager::Init()

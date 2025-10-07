@@ -20,7 +20,8 @@ private:
 	Vec2 m_pos;
 	
 	// プレイヤーのハンドル
-	int m_playerHandle;
+	int m_playerHandleIdle;
+	int m_playerHandleMove;
 	
 	// プレイヤーの移動速度
 	float speed;

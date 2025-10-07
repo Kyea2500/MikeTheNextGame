@@ -11,7 +11,7 @@ namespace
 }
 
 Timer::Timer():
-m_time(0.0),
+m_timer(0.0),
 m_Start(0),
 m_End(0)
 {
@@ -24,7 +24,9 @@ Timer::~Timer()
 
 void Timer::Init()
 {
-
+	m_timer = 0.0;
+	m_Start = clock();
+	m_End = m_Start;
 }
 void Timer::End()
 {
@@ -38,15 +40,22 @@ void Timer::Update()
 		Stop();
 	}
 	// Œo‰ßŽžŠÔ‚ð•b‚É•ÏŠ·‚µ‚Ä‰ÁŽZ
-	m_time += (double)(m_Start-m_End) / CLOCKS_PER_SEC;
+	m_timer += (double)(m_Start-m_End) / CLOCKS_PER_SEC;
 	m_End = m_Start;
 }
 void Timer::Draw()
 {
-	DrawFormatString(kTextPosX, kTextPosY, 0xffffff, "%f•b",m_time);
+	DrawFormatString(kTextPosX, kTextPosY, 0xffffff, "%101f•b",m_timer);
+
 }
 
 void Timer::Stop()
 {
 	m_End = clock();
+}
+
+double Timer::GetTime()
+{
+	m_timer =(m_End - m_Start) / CLOCKS_PER_SEC;
+	return m_timer;
 }
